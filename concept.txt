@@ -1,3 +1,19 @@
 aa demo project
 
 github ma banaveli repository ne vs code ma open karin update mate chhe
+
+
+remote ==> local
+
+1.git clone <- github repository link ->      ==> github repository ne vs code ma open karva mate
+
+2.git status    ==> untracked(new file that git doesn't yet track)
+                    modified(changed)
+                    unmodified(unchanged)
+                    staged(file is ready to be committed)
+
+3. git add <- file name ->  ,  git add . (badhi file aek sathe add mate) 
+
+ ==> (adds new files in your working directory  the git staging area) 
+
+4.git commit -m "some message"  ==>  it is the record of change
