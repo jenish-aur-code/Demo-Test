@@ -17,3 +17,5 @@ remote ==> local
  ==> (adds new files in your working directory  the git staging area) 
 
 4.git commit -m "some message"  ==>  it is the record of change
+
+5.git push origin main   ==> upload local repository content to remote repository
